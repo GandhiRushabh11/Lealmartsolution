@@ -11,15 +11,15 @@ Hi I made this project during the 2 Days for <b> Lealmart india
 <li>css
 
 
-<h3>Customer side username and password </h3?
-<li><b>Username :-gandhi@gmail.com
-<li><b>Password :-gandhi@123
+<h5>Customer side username and password </h5>
+<li><b>Username :-gandhi@gmail.com</li>
+<li><b>Password :-gandhi@123</li>
 
-<h3>Admin side username and password </h3?
-<li><b>Username :-rushabh@admin.com
-<li><b>Password :-rushabh@123
+<h5>Admin side username and password </h5>
+<li><b>Username :-rushabh@admin.com</li>
+<li><b>Password :-rushabh@123</li>
 
-
+<br>
 
 follow Me on:
 <li><a href=
