@@ -25,7 +25,7 @@ follow Me on:
 <li><a href=
 "https://www.linkedin.com/in/gandhi-rushabh-0a30b4168/">LinkedIn</a>
 <li><a href=
-"https:https://www.instagram.com/rushabh.5832/">Instagram</a>
+"https://www.instagram.com/rushabh.5832/">Instagram</a>
 <li><a href=
 "https://github.com/GandhiRushabh11/">GitHub</a>
 
